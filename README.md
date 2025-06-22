@@ -57,3 +57,5 @@ Ensure all UI references are linked in the Inspector (sliders, buttons, prefab, 
 
 Hit Play and start simulating!
 
+![Screenshot](scrnshot1.png)
+![Screenshot](scrnshot2.png)
